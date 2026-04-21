@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Segment",
-        "repositoryURL": "https://github.com/segmentio/analytics-ios.git",
+        "repositoryURL": "https://github.com/Glucobit-Inc/segment-analytics-ios.git",
         "state": {
           "branch": null,
-          "revision": "187faa897c826fe0954124da116db3318242f7c3",
-          "version": "4.1.4"
+          "revision": "507a5c3ac1230d89b6c741766e8a4564e257b778",
+          "version": "4.1.8"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",
         "state": {
           "branch": null,
-          "revision": "6cc9a9400a9d15e26d1ccf83ed9924c1dfbe8b75",
-          "version": "6.17.8"
+          "revision": "d23b242b28c663618bce5fe9e2f3adb85b32bfb3",
+          "version": "6.17.9"
         }
       }
     ]
