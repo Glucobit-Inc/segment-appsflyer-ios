@@ -16,8 +16,8 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(name: "Segment", url: "https://github.com/segmentio/analytics-ios.git" , from: "4.0.0"),
-        .package(name: "AppsFlyerLib" , url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", .exact("6.17.8")),
+        .package(name: "Segment", url: "https://github.com/Glucobit-Inc/segment-analytics-ios.git" , revision: "507a5c3ac1230d89b6c741766e8a4564e257b778"),
+        .package(name: "AppsFlyerLib" , url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", .exact("6.17.9")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
